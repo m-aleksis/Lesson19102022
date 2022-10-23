@@ -1,0 +1,96 @@
+*{
+box-sizin: border-box;
+}
+body{
+    font-family: 'Roboto', Regular;
+}
+header{
+    padding: 10px 0;
+}
+.wrapper{
+    width: 940px;
+    margin: 0 auto;
+}
+.logo{
+    width: 466px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: none;
+}
+.links{
+    width: 466px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: none;
+}
+a{
+    text-decoration: none;
+}
+p.class-name.big-size-font.bg-block{
+    background-color: #FAC960;
+    width: 940px;
+    padding-top: 91.2px;
+    padding-bottom: 92.2px;
+    font-size: 44px;
+    text-align: center;
+}
+#email{border: 1px;
+    border: 1px;
+    border-color: black;
+    height: 54px;
+    width: 560px;
+    padding-left: 36px;
+    font-size: 30px;
+    font-weight: 400;
+    vertical-align: middle;
+}
+#Find{
+    background: #a8863d;
+    color: #fff;
+    border-color: #a8863d;
+    box-shadow: none;
+    width: 240px;
+    height: 54px;
+    vertical-align: middle;
+}
+.part2{
+    background-color: #F2F2F2;
+    width: 940px;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 37px;
+    padding-top: 80.8px;
+    padding-bottom: 81.63px;
+}
+p{
+    font-size: 23px;
+    font-weight: 400;
+    color: rgb(0, 0, 0, 0.4);
+    width: 819px;
+}
+img[src="infinity"]{
+    Width: 186.59px;
+    Height: 96px;
+}
+.part3{
+    background-color: #FAC960;
+    width: 940px;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 37px;
+    padding-top: 80.8px;
+    padding-bottom: 81.63px;
+}
+.part4{
+    background-color: #FAC960;
+    width: 940px;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 31px;
+    padding-bottom: 81.63px;
+}
+img[src="logo2"]{
+    Width: 61px;
+    Height: 22px;
+}
